@@ -4,5 +4,5 @@
 
 - Criado em javascript HTML
 
-  OBJETIVO : Criar e aprimorar uma API, desenvolver e melhorar usando as melhores ferramentas gratis possivel "Criando"
+  OBJETIVO : Criar e aprimorar uma API, desenvolver e melhorar usando as melhores ferramentas disponiveis "Criando"
 
