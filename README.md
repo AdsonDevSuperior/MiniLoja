@@ -2,7 +2,7 @@
 
 - Mini Loja de artigos esportivos
 
-- Criado em javascript HTML
+- Criado em javascript HTML CSS
 
   OBJETIVO : Criar e aprimorar uma API, desenvolver e melhorar usando as melhores ferramentas disponiveis "Criando"
 
